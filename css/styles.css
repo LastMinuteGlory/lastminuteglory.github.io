@@ -164,16 +164,16 @@ a {
   background-color: transparent;
 }
 a:hover {
-  color: #117964;
+  color: #030303;
   text-decoration: underline;
 }
 
 a:not([href]) {
-  color: inherit;
+  color: #fff;
   text-decoration: none;
 }
 a:not([href]):hover {
-  color: inherit;
+  color: #030303;
   text-decoration: none;
 }
 
